@@ -1,0 +1,48 @@
+
+#dassi {
+    
+     text-align:center;
+    
+}
+#das {
+   
+     margin:0px auto;
+    
+}
+#dasse{
+    border-radius: 5px;
+ 
+    
+}
+#dass{
+    background-color: wheat;
+    text-emphasis: none;
+    border-radius: 5px;
+    margin-top: 240px;
+    width: 300px;
+    right: 200px;
+
+}
+#body{
+    background-color: rgb(78, 78, 78);
+}
+.button{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+
+}
+.input{
+    border-radius: 5px;
+    background-color: transparent;
+}
+#agregar{
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    text-decoration: inherit;
+    width: 50px;
+    
+
+}
